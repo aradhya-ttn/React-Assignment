@@ -1,0 +1,22 @@
+table,tr,td{
+    border:1px solid black;
+    align-items: center;
+
+}
+table {
+    border-collapse: collapse;
+    margin: auto;
+    width:60%;
+  }
+  td{
+      width:33%
+  }
+  button{
+      background-color: red;
+      color:whitesmoke;
+  }
+  button:hover{
+      background-color: crimson;
+      color: black;
+  }
+  
