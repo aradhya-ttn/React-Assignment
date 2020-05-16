@@ -11,7 +11,7 @@ const navigationItems = (props) => (
         <NavigationItem link="/auth">Authenticate</NavigationItem>
         : <NavigationItem link="/logout">Logout</NavigationItem>}
 
-    </ul>
+    </ul>   
 );
 
 export default navigationItems;

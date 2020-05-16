@@ -1,5 +1,5 @@
 import React ,{Component} from  'react';
-import classes from '*.module.css';
+
 
 const asyncComponent = (importComponent) =>{
     return class  extends Component{
